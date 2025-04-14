@@ -1,29 +1,29 @@
 Which PHP function is used to display text on the screen?
-**a) echo
+**a) echo**
 b) printText
 c) show
 d) printString
 
 Which superglobal contains data sent via the GET method?
 a) $_POST
-**b) $_GET
+**b) $_GET**
 c) $_SESSION
 d) $_SERVER
 
 What does isset($_POST['name']) check?
 a) If the variable is a string
-**b) If the variable exists and is not null
+**b) If the variable exists and is not null**
 c) If the variable is empty
 d) If the variable is a number
 
 Which function starts a PHP session?
 a) start_session()
 b) begin_session()
-**c) session_start()
+**c) session_start()**
 d) session_open()
 
 Which command connects to MySQL using MySQLi?
-**a) mysqli_connect()
+**a) mysqli_connect()**
 b) mysql_connect()
 c) db_connect()
 d) connect_mysql()
