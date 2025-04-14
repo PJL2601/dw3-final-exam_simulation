@@ -1,17 +1,17 @@
 Which control structure repeats code while a condition is true?
 a) if
 b) switch
-**c) while
+**c) while**
 d) foreach
 
 What does the empty() function return when the value is 0?
-**a) true
+**a) true**
 b) false
 c) null
 d) empty string
 
 How do you define an associative array in PHP?
-**a) array("key" => "value")
+**a) array("key" => "value")**
 b) ["key", "value"]
 c) ("key" = "value")
 d) array("value" => "key")
@@ -19,11 +19,11 @@ d) array("value" => "key")
 What is the purpose of the fopen() function?
 a) Open a database
 b) Open a connection
-**c) Open a file
+**c) Open a file**
 d) Open a session
 
 Which JavaScript function performs an AJAX request?
-**a) fetch()
+**a) fetch()**
 b) request()
 c) sendRequest()
 d) ajaxPost()
