@@ -1,6 +1,6 @@
 What keyword is used to create an object from a class in PHP?
 a) include
-**b) new
+**b) new**
 c) open
 d) class
 
@@ -8,22 +8,22 @@ What is polymorphism in PHP?
 a) Functions with the same name in different scopes
 b) Classes with multiple names
 c) Objects with multiple identities
-**d) Methods with different behaviors in subclasses
+**d) Methods with different behaviors in subclasses**
 
 How is a constructor defined in modern PHP classes?
 a) function construct()
-**b) function __construct()
+**b) function __construct()**
 c) constructor()
 d) init()
 
 Which function sets a cookie in PHP?
-**a) setcookie()
+**a) setcookie()**
 b) cookie_set()
 c) create_cookie()
 d) cookie()
 
 Which function checks if a file was uploaded via a form?
-**a) is_uploaded_file()
+**a) is_uploaded_file()**
 b) file_exists()
 c) upload_check()
 d) form_file()
