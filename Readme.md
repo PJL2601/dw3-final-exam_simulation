@@ -40,7 +40,7 @@ A basic product catalog system where users can log in, add products with images,
 
    ```sql
    INSERT INTO users (username, password) 
-   VALUES ('username', '$2y$10$YourHashedPasswordHere');
+   VALUES ('Admin', 'admin');
    ```
 
    - You can generate a hashed password using PHP's `password_hash()` function
@@ -48,11 +48,10 @@ A basic product catalog system where users can log in, add products with images,
 
    ```php
    <?php
-   // Create a new user
    require_once 'db.php';
    
-   $username = 'admin'; // Change this to your desired username
-   $password = 'password123'; // Change this to your desired password
+   $username = 'admin';
+   $password = 'password123';
    
    $hashed_password = password_hash($password, PASSWORD_DEFAULT);
    
