@@ -1,24 +1,24 @@
 Which SQL command inserts data into a table?
 a) ADD
-**b) INSERT INTO
+**b) INSERT INTO**
 c) UPDATE
 d) APPEND
 
 In PDO, which command is used to prevent SQL injection?
-**a) prepare()
+**a) prepare()**
 b) validate()
 c) filter()
 d) querySecure()
 
 Which function closes a MySQLi connection?
 a) mysql_close()
-**b) mysqli_close()
+**b) mysqli_close()**
 c) db_disconnect()
 d) close_connection()
 
 What does the htmlspecialchars() function do?
 a) Remove spaces
-**b) Escape HTML characters
+**b) Escape HTML characters**
 c) Remove HTML tags
 d) Check if it's a string
 
@@ -26,4 +26,4 @@ What is the best way to validate a required form field?
 a) isset() and empty()
 b) validate()
 c) secure()
-**d) post_check()
+**d) post_check()**
